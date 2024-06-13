@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarynBeaupre)](https://github.com/TarynBeaupre/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarynBeaupre&langs_count=8)
 <!--
 **TarynBeaupre/TarynBeaupre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
