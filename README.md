@@ -1,4 +1,8 @@
 ## Hi there 👋
+I’m a developer passionate about crafting impactful solutions using modern technology. 
+From a young age, I have been fascinated with the inner workings of electronics and the incredible innovative power of technology.
+I'm based in Montreal Canada and am currently completing a three year technical DEC in Computer Science at John Abbott College.
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarynBeaupre&langs_count=8)
 <!--
 **TarynBeaupre/TarynBeaupre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
